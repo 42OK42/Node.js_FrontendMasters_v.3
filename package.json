@@ -1,0 +1,22 @@
+{
+  "name": "node.js_frontendmasters_v.3",
+  "version": "1.0.0",
+  "description": "install nvm",
+  "main": "index.js",
+  "bin": {
+    "note": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/42OK42/Node.js_FrontendMasters_v.3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/42OK42/Node.js_FrontendMasters_v.3/issues"
+  },
+  "homepage": "https://github.com/42OK42/Node.js_FrontendMasters_v.3#readme"
+}
