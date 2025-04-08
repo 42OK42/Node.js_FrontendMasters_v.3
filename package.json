@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/42OK42/Node.js_FrontendMasters_v.3/issues"
   },
-  "homepage": "https://github.com/42OK42/Node.js_FrontendMasters_v.3#readme"
+  "homepage": "https://github.com/42OK42/Node.js_FrontendMasters_v.3#readme",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
 }

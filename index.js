@@ -1,28 +1,60 @@
 #!/usr/bin/env node
 
+import './src/command.js'
 
 
-import * as utils from './utils/index.js'
 
-import fs from 'node:fs'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// import * as utils from './utils/index.js'
+
+// import fs from 'node:fs'
 
 // console.log("hello world")
 
-const note = process.argv[2]
-console.log(note)
-const newNote = {
-	title: note,
-	description: note,
-	id: Date.now(),
-	createdAt: new Date(),
-	updatedAt: new Date(),
-}
+// const data = fs.readFileSync('data.json', 'utf-8')
+// console.log(data)
 
-console.log(newNote)
+// const note = process.argv[2]
+// console.log(note)
+// const newNote = {
+// 	title: note,
+// 	description: note,
+// 	id: Date.now(),
+// 	createdAt: new Date(),
+// 	updatedAt: new Date(),
+// }
 
-console.log('count', 5)
-console.log('count', utils.count(5))
-console.log('other', utils.other())
+// console.log(newNote)
+
+// console.log('count', 5)
+// console.log('count', utils.count(5))
+// console.log('other', utils.other())
 
 // (function () {
 // 	console.log('IIFE')
