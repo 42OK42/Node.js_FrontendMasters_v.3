@@ -16,7 +16,7 @@ A simple command-line note-taking application built with Node.js, based on the F
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/Node.js_FrontendMasters_v.3.git
+git clone https://github.com/42OK42/Node.js_FrontendMasters_v.3.git
 cd Node.js_FrontendMasters_v.3
 npm install
 ```
