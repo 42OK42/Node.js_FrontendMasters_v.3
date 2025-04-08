@@ -1,8 +1,5 @@
 # Node.js_FrontendMasters_v.3
 
-
-# Node.js CLI Notes App
-
 A simple command-line note-taking application built with Node.js, based on the Frontend Masters Node.js v3 course.
 
 ## Prerequisites
